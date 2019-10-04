@@ -1,0 +1,32 @@
+img{
+    border-radius: 50%;
+    width: 10%;
+    float: left;
+    vertical-align: sub;
+}
+
+
+a:hover{
+    color: #081136;
+}
+
+h1, h2, a{
+   color: slateblue;
+   text-align: center;
+}
+
+
+h3, h4{
+    color: slategrey;
+    text-align: center;
+}
+
+body{
+    font-family: 'Poppins', sans-serif;
+    padding: 0;
+    margin: 0;
+    height: 100%;
+    background-color: white;
+    box-shadow: inset 0 0 0 1000px rgba(0, 0, 0, .75); 
+    text-align: justify;
+}
